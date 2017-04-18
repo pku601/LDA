@@ -1,0 +1,10 @@
+/LNCS_articles/*
+.idea/
+dblp_titles_clean2.txt
+dblp_titles_clean.txt
+abstracts_clean2.txt
+abstracts_clean.txt
+abstracts.txt
+destFile_stem.txt
+destFile.txt
+dblp_titles_without_titleelement.txt

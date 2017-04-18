@@ -1,0 +1,18 @@
+Parallel Integer Sorting and Simulation Amongst CRCW Models.
+Pattern Matching in Trees and Nets.
+NP-complete Problems Simplified on Tree Schemas.
+On the Power of Chain Rules in Context Free Grammars.
+Schnelle Multiplikation von Polynomen &uuml;ber K&ouml;rpern der Charakteristik 2.
+A characterization of rational D0L power series.
+The Derivation of Systolic Implementations of Programs.
+Fifo Nets Without Order Deadlock.
+On the Complementation Rule for Multivalued Dependencies in Database Relations.
+Equational weighted tree transformations.
+Merged processes: a new condensed representation of Petri net behaviour.
+Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.
+A Three-Stage Construction for Multiconnection Networks.
+The Expressive Power of Delay Operators in SCCS.
+Calculi for Interaction.
+A Synthesis of Several Sorting Algorithms.
+A Workload Model Representative of Static and Dynamic Characteristics.
+Gray visiting Motzkins.
